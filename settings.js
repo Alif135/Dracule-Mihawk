@@ -9,16 +9,16 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> GANTI APIKEY, API INI CUMA BUAT FITUR TIKTOK DOWNLOAD
-global.zenzkey = 'Your_Apikey' //Register Atau Beli Di zenzapis.xyz
+global.zenzkey = 'f684421baa' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Dracule Mihawk' //Ganti Jadi Nama Botmu
-global.author = 'By NzrlAfndi' //Ganti Jadi Namamu
+global.ownerNumber = ['6281315017916','6281315017916'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6281315017916' //Owner Utama
+global.ownerName = 'Khalif' //Ganti Jadi Namamu
+global.packname = 'BOTz' //Ganti Jadi Nama Botmu
+global.author = '© Khalif' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
-global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
+global.sessionName = 'session' //Saran Gausah Diganti Lagi
 global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
@@ -41,7 +41,7 @@ global.available = false //Ganti ke true kalau pengen bot nya keliatan online te
 global.mess = {
 admin: '*Kamu Bukan Admin!*',
 botAdmin: '*Bot Bukan Admin!*',
-botOwner: '*Kamu Bukan Ownerku!*',
+botOwner: '*Khusus Owner Bot!*',
 group: '*Khusus Group!*',
 private: '*Khusus Private Chat!*',
 wait: '*Tunggu Sebentar.......*',
